@@ -73,6 +73,24 @@ body {
     color: #C45861FB;
 }
 
+.fotos {
+    padding: 1%;
+}
+
+.fotos__conteudo {
+    width: 100%;
+}
+
+.fotos__titulo {
+    font-size: 47px;
+    font-family: 'Urbanist', sans-serif;
+    text-align: center;
+}
+
+.imagens {
+    padding: 3% 25%;
+}
+
 
 .rodape {
     color: #F6F6F6;
